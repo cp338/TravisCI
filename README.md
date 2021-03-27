@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/dteske25/TravisCI.svg?branch=master)](https://travis-ci.org/dteske25/TravisCI)
+Mine: [![Build Status](https://travis-ci.org/cp338/TravisCI.svg?branch=master)](https://travis-ci.org/cp338/TravisCI)
 
 # Travis CI Lab
 We are going to be setting up continuous integration today on a sample project. 
